@@ -37,22 +37,22 @@
     "users":
     [
         {
-            "id": 1,
+            "id": "john_doe",
             "username": "john_doe",
             "password": "default"
         },
         {
-            "id": 2,
+            "id": "fulano",
             "username": "fulano",
             "password": "fulano"
         },
         {
-            "id": 3,
+            "id": "michaelkyle",
             "username": "michaelkyle",
             "password": "ehno"
         },
         {
-            "id": 4,
+            "id": "admin",
             "username": "admin",
             "password": "admin"
         }
