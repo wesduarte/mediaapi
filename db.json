@@ -34,7 +34,7 @@
             "thumb": "https://s2.glbimg.com/mDacL_NMyGOP67-p7gm-TtjXO7w=/140x208/top/https://s.glbimg.com/vi/md/media/5652409/poster/092210_super.jpg"
         },
         {
-            "id": "5",
+            "id": 5,
             "title": "Em Busca Da Princesa Dos Mitos",
             "subtitle": "PRINCESS",
             "duration": 89,
@@ -42,7 +42,7 @@
             "thumb": "https://s2.glbimg.com/TiYh2qPyI_37avOql85QVXCZpzs=/140x208/top/https://s.glbimg.com/vi/md/media/2810747/poster/14998986111498269_poster.jpeg"
         },
         {
-            "id": "6",
+            "id": 6,
             "title": "Ratatouille",
             "subtitle": "Ratatouille",
             "duration": 112,
