@@ -6,6 +6,7 @@
             "title": "Trolls",
             "subtitle": "Trolls",
             "duration": 87,
+            "genre": "Animação",
             "sinopse": "De um lado, os fofos trolls que vivem para cantar, dançar e abraçar. Do outro, os berguens que acreditam que o único modo de ser feliz é comendo um troll. Após a invasão de sua vila, os trolls Poppy e Branch partem em uma jornada para resgatar sua família e amigos.",
             "thumb": "https://s2.glbimg.com/4JcNTq-R7NW-O_oETlFnaqkg0qM=/140x208/top/https://s.glbimg.com/vi/md/media/6021275/poster/15012828131526454_poster.jpeg"
         },
@@ -14,6 +15,7 @@
             "title": "O Bebê De Bridget Jones",
             "subtitle": "BRIDGET JONES'S BABY",
             "duration": 119,
+            "genre": "Comédia",
             "sinopse": "Dedicada à sua carreira e curtindo a vida de solteira, Bridget Jones descobre que está grávida. Após ter passado a noite com o americano Jack e ter tido uma recaída com Mark Darcy, seu antigo amor, ela agora não sabe quem é o pai da criança.",
             "thumb": "https://s2.glbimg.com/t0Ngpxxja37XRi-Mixfg8bAGo1A=/140x208/top/https://s.glbimg.com/vi/md/media/6021306/poster/15012822101526418_poster.jpeg"
         },
@@ -22,6 +24,7 @@
             "title": "Um Espião E Meio",
             "subtitle": "CENTRAL INTELLIGENCE",
             "duration": 105,
+            "genre": "Comédia",
             "sinopse": "Nos tempos de escola, Bob Stone sofria bullying de seus colegas. Vinte anos depois, ele mudou completamente e agora é um agente da CIA. Ao reencontrar Calvin, que era um dos alunos promissores do colégio, Bob pede ajuda dele em uma missão secreta.",
             "thumb": "https://s2.glbimg.com/u0_KFwzkCH2kHOmcbIbiZVTlAyw=/140x208/top/https://s.glbimg.com/vi/md/media/5955830/poster/1516065_card.jpg"
         },
@@ -30,6 +33,7 @@
             "title": "Tô Ryca!",
             "subtitle": "Tô Ryca!",
             "duration": 66,
+            "genre": "Comédia",
             "sinopse": "A frentista Selminha descobre que tem direito a uma herança de família. Mas, para conseguir essa bolada, ela deve seguir as regras de seu tio e gastar R$30 milhões em 30 dias sem acumular nada e sem contar sobre essa condição a ninguém.",
             "thumb": "https://s2.glbimg.com/mDacL_NMyGOP67-p7gm-TtjXO7w=/140x208/top/https://s.glbimg.com/vi/md/media/5652409/poster/092210_super.jpg"
         },
@@ -38,6 +42,7 @@
             "title": "A Comunidade",
             "subtitle": "KOLLEKTIVET",
             "duration": 111,
+            "genre": "Animação",
             "sinopse": "Na década de 1970, na Dinamarca, o casal Anna e Erik se muda para um casarão e passa a morar nele com desconhecidos. Compartilhando valores de liberação política e afetiva, o ambiente muda para Anna quando Erick se apaixona por outra mulher.",
             "thumb": "https://s2.glbimg.com/NyS24UBxhMEQMOQu3EbbrH11UTA=/140x208/top/https://s.glbimg.com/vi/md/media/6032217/poster/15015264071527521_poster.jpeg"
         },
@@ -46,8 +51,45 @@
             "title": "Ratatouille",
             "subtitle": "Ratatouille",
             "duration": 112,
+            "genre": "Animação",
             "sinopse": "Um ratinho que tem o sonho de se tornar chef de cozinha se une a um jovem cozinheiro. Juntos, eles são a receita perfeita para pratos deliciosos. Mas precisam ficar atentos ao chefe da cozinha que quer separá-los.",
             "thumb": "https://s2.glbimg.com/AQb1PyvYJa7hZuygx8mBavzSHVo=/140x208/top/https://s.glbimg.com/vi/md/media/2727455/poster/upload-1478884253.6980247-07111eaee7d6f8884b616897eb1ce47f-1444209_poster.jpeg"
+        },
+        {
+            "id": 7,
+            "title": "A Visita",
+            "subtitle": "THE VISIT",
+            "duration": 92,
+            "genre": "Terror",
+            "sinopse": "Tyler e Becca são dois irmãos que, a mando da mãe, vão passar uns dias na casa dos avós. O que parece um inocente lar carinhoso habitado por dois idosos é, na verdade, repleto de atividades assustadoras. Os netos vão descobrir que se intrometer na rotina regrada pode causar graves consequências.",
+            "thumb": "https://s2.glbimg.com/nEZZGttLuoPwlXNTAXsTn0qgMZo=/140x208/top/https://s.glbimg.com/vi/md/media/5256956/poster/upload-1474909837.936993-db8bce96be2ba3da263eac1f306842ed-1424351_poster.jpeg"
+        },
+        {
+            "id": 8,
+            "title": "Divergente",
+            "subtitle": "Divergent",
+            "duration": 134,
+            "genre": "Ação",
+            "sinopse": "No futuro, Chicago está destruída, e seus moradores divididos em facções, cada uma representando uma virtude. Quando Beatrice opta pela facção da audácia, uma diferente da sua família, ela tem que abandonar seu lar e embarcar em uma jornada de autoconhecimento.",
+            "thumb": "https://s2.glbimg.com/ixBsVCXTXF8q8NdwCh68nL-dd4U=/140x208/top/https://s.glbimg.com/vi/md/media/3835775/poster/upload-1466430282.824938-6d5caacced43bac48996da79a545b1b8-1238042_poster.jpeg"
+        },
+        {
+            "id": 9,
+            "title": "Truque De Mestre",
+            "subtitle": "NOW YOU SEE ME",
+            "duration": 107,
+            "genre": "Crime",
+            "sinopse": "Daniel Atlas é o líder de um grupo de ilusionistas. Enquanto encantam o público com suas mágicas, eles roubam bancos em outro continente. O agente do FBI Dylan Hobbs passa a persegui-los. Ele conta com a ajuda de uma detetive da Interpol, e também de um veterano desmistificador de mágicos.",
+            "thumb": "https://s2.glbimg.com/xmghKQWR3atzyPidz7_vwIbMhyE=/140x208/top/https://s.glbimg.com/vi/md/media/3393140/poster/truque_de_mestre_super.jpg"
+        },
+        {
+            "id": 10,
+            "title": "A Menina Que Roubava Livros",
+            "subtitle": "THE BOOK THIEF",
+            "duration": 127,
+            "genre": "Drama",
+            "sinopse": "Durante a Segunda Guerra, a jovem Liesel sobrevive através dos livros que ela rouba. Ela aprende a ler e partilhar livros com seus amigos, incluindo um judeu que vive escondido em sua casa.",
+            "thumb": "https://s2.glbimg.com/Yj1zZk8xkvVf-dGDpEEsXRJ5R6k=/140x208/top/https://s.glbimg.com/vi/md/media/3693879/poster/cc15ec92bc50447e9501b2976b602709.jpeg"
         }
     ],
     "users":
